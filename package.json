@@ -1,0 +1,19 @@
+{
+  "name": "kata-ekspresi-random",
+  "version": "1.0.0",
+  "description": "random kata ekspresi",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mrtampan/kata-ekspresi-random.git"
+  },
+  "author": "Achmad Rivaldi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mrtampan/kata-ekspresi-random/issues"
+  },
+  "homepage": "https://github.com/mrtampan/kata-ekspresi-random#readme"
+}
