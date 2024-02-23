@@ -1,5 +1,5 @@
 {
-  "name": "kata-ekspresi-random",
+  "name": "@mrtampan/kata-ekspresi-random",
   "version": "1.0.0",
   "description": "random kata ekspresi",
   "main": "index.js",
@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/mrtampan/kata-ekspresi-random/issues"
   },
-  "homepage": "https://github.com/mrtampan/kata-ekspresi-random#readme"
+  "homepage": "https://github.com/mrtampan/kata-ekspresi-random#readme",
+  "publishConfig": {
+    "@mrtampan:registry": "https://npm.pkg.github.com"
+  }
 }
